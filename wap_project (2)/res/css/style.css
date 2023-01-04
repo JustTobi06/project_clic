@@ -1,0 +1,169 @@
+#arena1{
+  background: url("/res/img/base.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+#player {
+ 
+  position: absolute;
+  left: 40em;
+  transition: 0.05s;
+  top: 200px;
+  
+}
+#enemy {
+ 
+  position: absolute;
+  left: 70em;
+  top: 200px;
+}
+#attack {
+  position: absolute;
+  top: 640px;
+  font-size: 32px;
+  left: 30em;
+}
+
+#enemyHp {
+  color: blue;
+  position: absolute;
+  top: 620px;
+  font-size: 32px;
+  left: 39em;
+}
+#playerHp{
+  color: red;
+  position: absolute;
+  top: 620px;
+  font-size: 32px;
+  left: 23em;
+}
+#info {
+  position: absolute;
+  top: 200px;
+  margin-left: 53em;
+  font-size: 20px;
+
+}
+#home{
+  background: url("/res/img/nuketown.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+#ghost{
+  width: 300px;
+  height: 450px;
+ 
+}
+#makarov{
+  width: 300px;
+  height: 450px;
+ 
+}
+#go{
+  border: 1px solid black;
+  font-size: 32px;
+  margin-left: 28em;
+  margin-top: 20em;
+}
+#shop{
+  background: url("/res/img/shop.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+#shopik{
+  border: 1px solid black;
+  font-size: 32px;
+  margin-left: 5em;
+  margin-top: 70px;
+}
+#domov{
+  position: absolute;
+  border: 1px solid black;
+  font-size: 32px;
+  margin-left: 3em;
+  margin-top: 2em;
+}
+#sheperd{
+  width: 300px;
+  height: 450px;
+}
+#boj2{
+  background: url("/res/img/heli.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+#shep{
+  border: 1px solid black;
+  font-size: 32px;
+  margin-left: 37em;
+  margin-top: 1em;
+}
+#boj3{
+  background: url("/res/img/shipment.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+#men{
+  border: 1px solid black;
+  font-size: 32px;
+  margin-left: 37em;
+  margin-top: 1em;
+}
+#menendez{
+  width: 300px;
+  height: 450px;
+}
+#stim{
+
+  border: 1px solid black;
+  font-size: 32px;
+  margin-left: 10em;
+  margin-top: 5em;
+}
+#stimimg{
+  margin-left: 18em;
+  margin-top: 10em;
+}
+#stimik{
+  width: 150px;
+  height: 200px;
+}
+#domovni{
+  position: absolute;
+  border: 1px solid black;
+  font-size: 32px;
+  margin-top: -10em;
+
+}
+#boxik{
+  width: 150px;
+  height: 200px;
+}
+#box{
+  margin-left: 90em;
+  margin-top: -13em;
+}
+#abox{
+  border: 1px solid black;
+  font-size: 32px;
+  margin-left: 33em;
+  margin-top: 5em;
+}
+#coin{
+  color: yellow;
+  position: absolute;
+  font-size: 32px;
+  margin-left: 29em;
+  margin-top: -10em;
+}
